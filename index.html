@@ -162,6 +162,12 @@
     }
     */
 </style>
+<style>
+    [class*="chatCopyright"], [class*="copy"] {
+        display: none !important;
+    }
+</style>
+
 <body>
 <div id="preloader">
     <svg height="300" width="300">
@@ -622,6 +628,15 @@
             console.error('Hata:', error);
             document.querySelector('.random-algoritmasi').classList.remove('random-algoritmasi');
         });
+
+        // CHAT
+        urlParams = new URLSearchParams(window.location.search)
+        if (urlParams.has('chat')) {
+            script = document.createElement('script');
+            script.src = "https://code.jivosite.com/widget/YTpGhHy9u3";
+            script.async = true;
+            document.body.appendChild(script);
+        }
     });
 
 </script>
