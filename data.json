@@ -86,6 +86,19 @@
         "miktar": "₺500",
         "promo_code_yok": "YATIRIM ŞARTSIZ 500 TL ÇEKİM YAP",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/uePUIygW",
+        "desc": [
+          "5 DAKİKADA ÇEKİM LİMİTSİZ KAZANÇ"
+        ],
+        "site": "fixbet",
+        "sort": null,
+        "color": "#adf01f",
+        "miktar": "₺555",
+        "promo_code": null,
+        "promo_code_yok": "ÜYE OL BONUSUNU AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -202,6 +215,10 @@
           {
             "site": "sahabet",
             "sort": "7"
+          },
+          {
+            "site": "fixbet",
+            "sort": "8"
           }
         ]
       },
