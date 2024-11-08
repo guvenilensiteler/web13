@@ -99,6 +99,71 @@
         "promo_code": null,
         "promo_code_yok": "ÜYE OL BONUSUNU AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ueG01aSK",
+        "desc": [
+          "750TL YATIRIMSIZ DENEME BONUSU"
+        ],
+        "site": "starzbet",
+        "sort": null,
+        "color": "#ff6d00",
+        "miktar": "₺750",
+        "promo_code": null,
+        "promo_code_yok": "%100 HOŞGELDİN BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/YeGMl3w8",
+        "desc": [
+          "500TL DENEME BONUSU"
+        ],
+        "site": "betpublic",
+        "sort": null,
+        "color": "#99284e",
+        "miktar": "₺500",
+        "promo_code": null,
+        "promo_code_yok": "%300 FREE SPIN BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/8eGBmb6o",
+        "desc": [
+          "%300 YATIRIM BONUSU"
+        ],
+        "site": "otobet",
+        "sort": null,
+        "color": "#fba200",
+        "miktar": "₺800",
+        "promo_code": null,
+        "promo_code_yok": "800 TL ÇEVRİMSİZ YATIRIM ŞARTSIZ DENEME BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/JeGBmt5v",
+        "desc": [
+          "3000₺ HOŞ GELDİN BONUSU"
+        ],
+        "site": "supertotobet",
+        "sort": null,
+        "color": "#ff0035",
+        "miktar": "₺400",
+        "promo_code": null,
+        "promo_code_yok": "400₺ DENEME YA DA 400 FREESPIN (SWEET BONANZA)",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ueGBgBsP",
+        "desc": [
+          "750 TL DENEME BONUSU"
+        ],
+        "site": "bycasino",
+        "sort": null,
+        "color": "#ff6600",
+        "miktar": "₺750",
+        "promo_code": null,
+        "promo_code_yok": "1 YATIRIMDA VIP OL SINIRSIZ ÇEKİM İMKANI",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -219,6 +284,26 @@
           {
             "site": "fixbet",
             "sort": "8"
+          },
+          {
+            "site": "starzbet",
+            "sort": "9"
+          },
+          {
+            "site": "betpublic",
+            "sort": "10"
+          },
+          {
+            "site": "otobet",
+            "sort": "11"
+          },
+          {
+            "site": "supertotobet",
+            "sort": "12"
+          },
+          {
+            "site": "bycasino",
+            "sort": "13"
           }
         ]
       },
