@@ -254,19 +254,19 @@
         "sort": "3",
         "sites": [
           {
-            "site": "tipobet",
+            "site": "ligobet",
             "sort": "1"
           },
           {
-            "site": "matadorbet",
+            "site": "zbahis",
             "sort": "2"
           },
           {
-            "site": "betturkey",
+            "site": "tipobet",
             "sort": "3"
           },
           {
-            "site": "ligobet",
+            "site": "betturkey",
             "sort": "4"
           },
           {
@@ -274,7 +274,7 @@
             "sort": "5"
           },
           {
-            "site": "zbahis",
+            "site": "matadorbet",
             "sort": "6"
           },
           {

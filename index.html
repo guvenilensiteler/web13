@@ -597,7 +597,7 @@
                 }
                 return array.join('');
             }
-            result = shuffleString("abcdefghijkl")
+            result = shuffleString("abcdefghij");
 
             if (result != '') { //sunucudan veri dönmezse
                 firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
@@ -607,12 +607,12 @@
                     var indis = new Array(result.length).fill().map((_, i) => String.fromCharCode(97 + i));
 
                     // sitedekileri getir
-                    var en_uste_ekle;
+                    var en_uste_ekle = '';
                     var firmalar_temp = [];
                     var i = 0;
                     firmalar_element.forEach(function(F) {
-                        if (F.querySelector('a[site]').getAttribute('site') == 'tipobet') {
-                            en_uste_ekle = F.outerHTML;
+                        if (['ligobet','zbahis','tipobet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
+                            en_uste_ekle += F.outerHTML;
                         } else {
                             firmalar_temp[indis[i++]] = F.outerHTML;
                         }
