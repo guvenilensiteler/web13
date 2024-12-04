@@ -164,6 +164,19 @@
         "promo_code": null,
         "promo_code_yok": "1 YATIRIMDA VIP OL SINIRSIZ ÇEKİM İMKANI",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/mersogarabel",
+        "desc": [
+          "100₺ Deneme Bonusu Sınırsız Çekim"
+        ],
+        "site": "mersobahis",
+        "sort": null,
+        "color": "#ffdf42",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "Türkiyenin En Güvenilir Sitesi",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -304,6 +317,10 @@
           {
             "site": "bycasino",
             "sort": "13"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "14"
           }
         ]
       },
