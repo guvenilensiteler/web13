@@ -267,6 +267,10 @@
         "sort": "3",
         "sites": [
           {
+            "site": "mersobahis",
+            "sort": "0"
+          },
+          {
             "site": "ligobet",
             "sort": "1"
           },
@@ -317,10 +321,6 @@
           {
             "site": "bycasino",
             "sort": "13"
-          },
-          {
-            "site": "mersobahis",
-            "sort": "14"
           }
         ]
       },

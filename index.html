@@ -597,7 +597,7 @@
                 }
                 return array.join('');
             }
-            result = shuffleString("abcdefghijk");
+            result = shuffleString("abcdefghij");
 
             if (result != '') { //sunucudan veri dönmezse
                 firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
@@ -611,7 +611,7 @@
                     var firmalar_temp = [];
                     var i = 0;
                     firmalar_element.forEach(function(F) {
-                        if (['ligobet','zbahis','tipobet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
+                        if (['mersobahis','ligobet','zbahis','tipobet'].includes(F.querySelector('a[site]').getAttribute('site'))) {
                             en_uste_ekle += F.outerHTML;
                         } else {
                             firmalar_temp[indis[i++]] = F.outerHTML;
